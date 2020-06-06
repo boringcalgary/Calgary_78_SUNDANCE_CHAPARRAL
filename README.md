@@ -18,10 +18,13 @@ https://sumo.dlr.de/docs/index.html
 Project steps:
 1.
 We will recreate the Calgary_78_SUNDANCE_CHAPARRAL bus route
+
 2.
 Replace bus route with new Boring Compnay vwvilces and tunnels
+
 3.
 Compare A/B
+
 4.
 A
 Total transit time for all riders
@@ -29,6 +32,7 @@ Avarge trasnit times for all riders
 B
 Total transit time for all riders
 Avarge trasnit times for all riders
+
 5.
 Next we will add
 Total operational cost
