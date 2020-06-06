@@ -45,9 +45,9 @@ C-Train
 From wikipedia here is what I know about the current rolling stock. https://en.wikipedia.org/wiki/Siemens_S200
 In September 2013, 60 LRVs were ordered, costing $200 million, for the Calgary CTrain;[4] the order was later slightly expanded to 63 LRVs at a cost of $201.6 million.[5] The first car was delivered on January 6, 2016.[6]
 
-L 84.6 ft (25.79 m) (Calgary)
-W 04.3 in (2.65 m) (both)
-H 12.6 ft (3.8 m) (Calgary)
+L 84.6 ft (25.79 m) (Calgary)\n
+W 04.3 in (2.65 m) (both)\n
+H 12.6 ft (3.8 m) (Calgary)\n
 Floor height    3.2 ft (0.98 m) (Calgary)
 Maximum speed    50 mph (80 km/h) (Calgary)
 Weight    89,950 lb (40,800 kg)
